@@ -2,6 +2,9 @@
 @extends('layout')
 @section('contents')
     <p>Loic masoso...</p>
+    <p>Loic masoso...</p>
+    <p>Loic masoso...</p>
+    <p>Loic masoso...</p>
 @endsection
 @section('content')
 <div class="d-flex justify-content-center">
